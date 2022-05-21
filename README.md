@@ -1,4 +1,5 @@
 ### Hi there 👋
+- Quantitative Methodology Specialist, Associate
 - MSc in Quantitative Finance @Bocconi University
 - I’m currently working on **RFides**: a fully-fledged asset allocation library in R
 - I’m currently working on **BackTesteR**: a fully-fledged backtesting library in R
