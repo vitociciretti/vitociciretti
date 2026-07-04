@@ -1,6 +1,6 @@
 # Vito Ciciretti
 
-**Quantitative risk researcher.** I build graph-theoretic and regime-detection methods for portfolio construction and risk management — and spend as much effort trying to break them as I do building them.
+**Quantitative researcher and AI specialist.** I build graph-theoretic and regime-detection methods for portfolio construction and risk management — and spend as much effort trying to break them as I do building them.
 
 PhD in Finance *(candidate)*, University of Essex · MSc Artificial Intelligence / Computer Science *(candidate)* · MSc Quantitative Finance, Bocconi University
 
