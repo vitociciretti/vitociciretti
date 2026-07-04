@@ -36,19 +36,23 @@ The other half is methodological honesty. A lot of published "signal" in this sp
 
 ## Also building
 
-Research pays the rent; I build for the fun of it too, and hold both to the same
-standard.
+I build for the fun of it too, and hold both to the same standard.
 
 The three projects above aren't just tech demos of each other's engines — they're
-places to actually think about simulated minds. **Godot: The Existentialist Game**
+places to actually think about simulated minds. 
+
+**Godot: The Existentialist Game**
 puts an LLM in Beckett's other chair and just talks, forever, until you stop
-waiting. **Delphi** spins up a parallel digital world from a news article, a
-policy draft, or a market signal, and rehearses how it plays out. **Demiurge** is
+waiting. 
+
+**Delphi** spins up a parallel digital world from a news article, a
+policy draft, or a market signal, and rehearses how it plays out. 
+
+**Demiurge** is
 a god-game about simulated reality, built around one invariant: private noise
 should never wake anyone up — only *shared* anomalies should.
 
-More recently, over a couple of intense days, I built a small **local-first AI
-infrastructure stack** — private for now, early, but built to the same bar as
+More recently, I built a small **local-first AI infrastructure stack** — private for now, early, but built to the same bar as
 everything else here: a hybrid dense+BM25+RRF retrieval engine with a full
 retrieval-trace panel, a GraphRAG memory layer on the same substrate with
 fact-level citations, a knowledge-graph quality gate with reversible repairs, a
