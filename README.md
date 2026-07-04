@@ -34,11 +34,35 @@ The other half is methodological honesty. A lot of published "signal" in this sp
 | **[demiurge](https://github.com/vitociciretti/demiurge)** | A god-game about simulated reality — a colony of inhabitants tries to notice it's in a simulation |
 | **[Godot: The Existentialist Game](https://github.com/vitociciretti/godot-existentialist-game)** | A Beckett two-hander built in the Godot engine — you play one tramp, an LLM plays the other |
 
+## Also building
+
+Research pays the rent; I build for the fun of it too, and hold both to the same
+standard.
+
+The three projects above aren't just tech demos of each other's engines — they're
+places to actually think about simulated minds. **Godot: The Existentialist Game**
+puts an LLM in Beckett's other chair and just talks, forever, until you stop
+waiting. **Delphi** spins up a parallel digital world from a news article, a
+policy draft, or a market signal, and rehearses how it plays out. **Demiurge** is
+a god-game about simulated reality, built around one invariant: private noise
+should never wake anyone up — only *shared* anomalies should.
+
+More recently, over a couple of intense days, I built a small **local-first AI
+infrastructure stack** — private for now, early, but built to the same bar as
+everything else here: a hybrid dense+BM25+RRF retrieval engine with a full
+retrieval-trace panel, a GraphRAG memory layer on the same substrate with
+fact-level citations, a knowledge-graph quality gate with reversible repairs, a
+durable DAG orchestrator with exactly-once effects and resume-from-failure, an
+eval/monitoring system that grades production traces with the *same* scorer as
+CI, and a cryptographic agent-identity and payments rail with its own adversarial
+test suite. It shows up in the graph below as its own cluster.
+
 ## Everything else I've built
 
-The projects above are public and linked; the rest is private research and production work, named below so the shape of it is visible.
+The projects above are public and linked; the rest is private research and
+production work, named below so the shape of it is visible.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/network-graph-dark.svg">
-  <img alt="Project network graph — published research, data infrastructure, regime and network research, strategy engines, risk tooling, creative simulation, and personal tooling" src="assets/network-graph-light.svg">
+  <img alt="Project network graph — published research, data infrastructure, regime and network research, strategy engines, risk tooling, creative simulation, personal tooling, and an AI infrastructure stack" src="assets/network-graph-light.svg">
 </picture>
