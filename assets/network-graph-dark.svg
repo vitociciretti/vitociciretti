@@ -64,12 +64,12 @@
 <rect x="522.0" y="466.0" width="194.5" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
 <text x="534.0" y="484.4" font-size="12.5" fill="#c3c2b7">Trading Data Pipelines</text>
 <text x="24" y="535" font-size="14.5" font-weight="600" fill="#ffffff">Risk &amp; PM Tooling</text>
-<rect x="24.0" y="546.0" width="225.5" height="28" rx="14.0" fill="none" stroke="#9085e9" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="564.4" font-size="12.5" fill="#c3c2b7">RiskFish (Scenario Engine)</text>
-<rect x="257.5" y="546.0" width="194.5" height="28" rx="14.0" fill="none" stroke="#9085e9" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="269.5" y="564.4" font-size="12.5" fill="#c3c2b7">Macro Cockpit (PM App)</text>
-<rect x="460.0" y="546.0" width="217.8" height="28" rx="14.0" fill="none" stroke="#9085e9" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="472.0" y="564.4" font-size="12.5" fill="#c3c2b7">Macro — PM's Second Brain</text>
+<rect x="24.0" y="546.0" width="295.2" height="28" rx="14.0" fill="none" stroke="#9085e9" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="564.4" font-size="12.5" fill="#c3c2b7">Bayesian War Room (Scenario Engine)</text>
+<rect x="327.2" y="546.0" width="194.5" height="28" rx="14.0" fill="none" stroke="#9085e9" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="339.2" y="564.4" font-size="12.5" fill="#c3c2b7">Macro Cockpit (PM App)</text>
+<rect x="529.8" y="546.0" width="217.8" height="28" rx="14.0" fill="none" stroke="#9085e9" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="541.8" y="564.4" font-size="12.5" fill="#c3c2b7">Macro — PM's Second Brain</text>
 <rect x="24.0" y="584.0" width="233.2" height="28" rx="14.0" fill="none" stroke="#9085e9" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
 <text x="36.0" y="602.4" font-size="12.5" fill="#c3c2b7">IGambling (Games of Chance)</text>
 <text x="24" y="653" font-size="14.5" font-weight="600" fill="#ffffff">Creative &amp; AI Simulation</text>
