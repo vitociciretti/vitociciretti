@@ -61,6 +61,12 @@ eval/monitoring system that grades production traces with the *same* scorer as
 CI, and a cryptographic agent-identity and payments rail with its own adversarial
 test suite. It shows up in the graph below as its own cluster.
 
+I also got tired of losing track of which of my ~25 projects were actually
+running, stale, or safely forgotten — so I built **Helm**, a manifest-driven
+control panel: one card per project with live git status and a start/stop
+button for the handful that are actual services. Private, still rough, but
+it's already the first thing I open in the morning.
+
 ## Everything else I've built
 
 The projects above are public and linked; the rest is private research and

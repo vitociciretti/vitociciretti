@@ -99,6 +99,8 @@
 <text x="36.0" y="800.4" font-size="12.5" fill="#c3c2b7">Innovation Radar</text>
 <rect x="180.0" y="782.0" width="186.8" height="28" rx="14.0" fill="none" stroke="#d55181" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
 <text x="192.0" y="800.4" font-size="12.5" fill="#c3c2b7">Morning Market Digest</text>
+<rect x="374.8" y="782.0" width="241.0" height="28" rx="14.0" fill="none" stroke="#d55181" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="386.8" y="800.4" font-size="12.5" fill="#c3c2b7">Helm (Project Control Panel)</text>
 <text x="24" y="851" font-size="14.5" font-weight="600" fill="#ffffff">AI Infrastructure Stack</text>
 <rect x="24.0" y="862.0" width="248.8" height="28" rx="14.0" fill="none" stroke="#d95926" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
 <text x="36.0" y="880.4" font-size="12.5" fill="#c3c2b7">Loomstate (Hybrid RAG Engine)</text>
