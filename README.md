@@ -1,6 +1,6 @@
 # Vito Ciciretti
 
-**Quantitative researcher and AI specialist.** I build graph-theoretic and regime-detection methods for portfolio construction and risk management — and spend as much effort trying to break them as I do building them.
+**I build systems that simulate worlds and agents — then stress-test what they claim.** Multi-agent social simulations, LLM-driven worlds, and the graph-memory and evaluation infrastructure underneath them — with research roots in quantitative finance, where I spend as much effort trying to break a result as I do building it.
 
 PhD in Finance *(candidate)*, University of Essex · MSc Artificial Intelligence / Computer Science *(candidate)* · MSc Quantitative Finance, Bocconi University
 
@@ -10,9 +10,11 @@ PhD in Finance *(candidate)*, University of Essex · MSc Artificial Intelligence
 
 ## What I actually do
 
-Most of my research treats markets as **networks** rather than an unordered basket of correlations — minimum spanning trees, threshold graphs, spectral and random-matrix methods — and uses that topology to detect regime change and build more robust portfolios.
+One question runs through all of it: how does complex, collective behavior **emerge** — from markets, from crowds, from populations of agents — and how much of an apparent signal actually survives honest scrutiny.
 
-The other half is methodological honesty. A lot of published "signal" in this space evaporates under a genuinely out-of-sample test, so I spend real effort re-running pipelines with blocked splits, leakage checks, and walk-forward validation — and reporting it plainly when the result is a clean negative rather than an inflated positive.
+On the research side, that means treating markets as **networks** rather than an unordered basket of correlations — minimum spanning trees, threshold graphs, spectral and random-matrix methods — and using that topology to detect regime change and build more robust portfolios. On the building side, it becomes **agentic simulation**: spinning up populations of LLM-driven agents to rehearse how a scenario plays out, together with the memory, retrieval, and evaluation infrastructure that makes those simulations trustworthy rather than merely plausible.
+
+Underneath both is methodological honesty. A lot of published "signal" in this space evaporates under a genuinely out-of-sample test, so I spend real effort re-running pipelines with blocked splits, leakage checks, and walk-forward validation — and reporting it plainly when the result is a clean negative rather than an inflated positive.
 
 ## Research
 
@@ -34,9 +36,9 @@ The other half is methodological honesty. A lot of published "signal" in this sp
 | **[demiurge](https://github.com/vitociciretti/demiurge)** | A god-game about simulated reality — a colony of inhabitants tries to notice it's in a simulation |
 | **[Godot: The Existentialist Game](https://github.com/vitociciretti/godot-existentialist-game)** | A Beckett two-hander built in the Godot engine — you play one tramp, an LLM plays the other |
 
-## Also building
+## Simulated minds — and the stack that runs them
 
-I build for the fun of it too, and hold both to the same standard.
+This is where the agentic-simulation work lives, held to the same standard as the research.
 
 The three projects above aren't just tech demos of each other's engines — they're
 places to actually think about simulated minds. 
@@ -52,7 +54,7 @@ policy draft, or a market signal, and rehearses how it plays out.
 a god-game about simulated reality, built around one invariant: private noise
 should never wake anyone up — only *shared* anomalies should.
 
-More recently, I built a small **local-first AI infrastructure stack** — private for now, early, but built to the same bar as
+Under those sits a **local-first AI infrastructure stack** — private for now, early, but built to the same bar as
 everything else here: a hybrid dense+BM25+RRF retrieval engine with a full
 retrieval-trace panel, a GraphRAG memory layer on the same substrate with
 fact-level citations, a knowledge-graph quality gate with reversible repairs, a
