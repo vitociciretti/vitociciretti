@@ -32,6 +32,7 @@ Underneath both is methodological honesty. A lot of published "signal" in this s
 |---|---|
 | **[synfin](https://github.com/vitociciretti/synfin)** | Synthetic financial time-series generator — regime-switching GARCH, factor models, calibrated presets |
 | **[causality-toolkit](https://github.com/vitociciretti/causality-toolkit)** | Lead-lag / causality analysis for time series (CCF, Granger, Transfer Entropy, DTW, Wavelet Coherence, CCM) |
+| **[zugzwicht](https://github.com/vitociciretti/zugzwicht)** | Regime detection applied to chess — win-probability, entropy, and volatility per move, segmented into quiet/sharp/critical regimes with a Gaussian HMM; the same toolkit I use on markets, on a game with a ground truth |
 | **[delphi](https://github.com/vitociciretti/delphi)** | Multi-agent world-simulation engine, extended with a financial-market scenario layer (built on MiroFish + OASIS) |
 | **[demiurge](https://github.com/vitociciretti/demiurge)** | A god-game about simulated reality — a colony of inhabitants tries to notice it's in a simulation |
 | **[Godot: The Existentialist Game](https://github.com/vitociciretti/godot-existentialist-game)** | A Beckett two-hander built in the Godot engine — you play one tramp, an LLM plays the other |

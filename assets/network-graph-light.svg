@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 954" width="880" height="954" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
-<rect x="0" y="0" width="880" height="954" fill="#fcfcfb"/>
-<circle cx="28" cy="22" r="3" fill="#898781"/>
-<text x="38" y="26" font-size="12.5" fill="#52514e">public repository (linked below)</text>
-<rect x="317.75" y="15" width="16" height="12" rx="6" fill="none" stroke="#898781" stroke-width="1.1" stroke-dasharray="2,2"/>
-<text x="339.75" y="26" font-size="12.5" fill="#52514e">private / internal (named only)</text>
-<path d="M 59.2 258.0 C 59.2 284.0, 160.0 284.0, 160.0 310.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<path d="M 428.4 338.0 C 428.4 383.0, 144.5 383.0, 144.5 428.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<path d="M 401.2 376.0 C 401.2 402.0, 144.5 402.0, 144.5 428.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<path d="M 144.5 376.0 C 144.5 402.0, 144.5 402.0, 144.5 428.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<path d="M 148.4 890.0 C 148.4 876.0, 393.5 876.0, 393.5 862.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<path d="M 393.5 890.0 C 393.5 876.0, 642.5 876.0, 642.5 862.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<path d="M 148.4 890.0 C 148.4 895.0, 385.8 895.0, 385.8 900.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<path d="M 132.9 928.0 C 132.9 914.0, 385.8 914.0, 385.8 900.0" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
-<text x="24" y="63" font-size="14.5" font-weight="600" fill="#0b0b0b">Published Research</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 992" width="880" height="992" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect x="0" y="0" width="880" height="992" fill="#fcfcfb"/>
+<circle cx="28" cy="22.0" r="3" fill="#898781"/>
+<text x="38" y="26.0" font-size="12.5" fill="#52514e">public repository (linked below)</text>
+<rect x="317.75" y="15.0" width="16" height="12" rx="6" fill="none" stroke="#898781" stroke-width="1.1" stroke-dasharray="2,2"/>
+<text x="339.75" y="26.0" font-size="12.5" fill="#52514e">private / internal (named only)</text>
+<path d="M 59.2 258 C 59.2 284, 160 284, 160 310" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M 428.4 338 C 428.4 383, 144.5 383, 144.5 466" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M 401.2 376 C 401.2 402, 144.5 402, 144.5 466" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M 144.5 376 C 144.5 402, 144.5 402, 144.5 466" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M 148.4 928 C 148.4 914, 393.5 914, 393.5 900" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M 393.5 928 C 393.5 914, 642.5 914, 642.5 900" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M 148.4 928 C 148.4 933, 385.8 933, 385.8 938" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<path d="M 132.9 966 C 132.9 952, 385.8 952, 385.8 938" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.7"/>
+<text x="24" y="63.0" font-size="14.5" font-weight="600" fill="#0b0b0b">Published Research</text>
 <rect x="24.0" y="74.0" width="225.5" height="28" rx="14.0" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.6"/>
 <circle cx="36.0" cy="88.0" r="3" fill="#2a78d6"/>
 <text x="46.0" y="92.4" font-size="12.5" fill="#0b0b0b">Network Risk Parity (2024)</text>
@@ -32,7 +32,7 @@
 <rect x="24.0" y="150.0" width="155.8" height="28" rx="14.0" fill="#2a78d6" fill-opacity="0.16" stroke="#2a78d6" stroke-width="1.6"/>
 <circle cx="36.0" cy="164.0" r="3" fill="#2a78d6"/>
 <text x="46.0" y="168.4" font-size="12.5" fill="#0b0b0b">+6 more → Scholar</text>
-<text x="24" y="219" font-size="14.5" font-weight="600" fill="#0b0b0b">Data &amp; Methods Infra</text>
+<text x="24" y="219.0" font-size="14.5" font-weight="600" fill="#0b0b0b">Data &amp; Methods Infra</text>
 <rect x="24.0" y="230.0" width="70.5" height="28" rx="14.0" fill="#1baf7a" fill-opacity="0.16" stroke="#1baf7a" stroke-width="1.6"/>
 <circle cx="36.0" cy="244.0" r="3" fill="#1baf7a"/>
 <text x="46.0" y="248.4" font-size="12.5" fill="#0b0b0b">SynFin</text>
@@ -41,7 +41,7 @@
 <text x="124.5" y="248.4" font-size="12.5" fill="#0b0b0b">Causality Toolkit</text>
 <rect x="266.2" y="230.0" width="217.8" height="28" rx="14.0" fill="none" stroke="#1baf7a" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
 <text x="278.2" y="248.4" font-size="12.5" fill="#52514e">Trading Performance Eval.</text>
-<text x="24" y="299" font-size="14.5" font-weight="600" fill="#0b0b0b">Regime &amp; Network Research</text>
+<text x="24" y="299.0" font-size="14.5" font-weight="600" fill="#0b0b0b">Regime &amp; Network Research</text>
 <rect x="24.0" y="310.0" width="272.0" height="28" rx="14.0" fill="none" stroke="#eda100" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
 <text x="36.0" y="328.4" font-size="12.5" fill="#52514e">Graph-Theoretic Regime Detection</text>
 <rect x="304.0" y="310.0" width="248.8" height="28" rx="14.0" fill="none" stroke="#eda100" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
@@ -54,64 +54,67 @@
 <text x="285.0" y="366.4" font-size="12.5" fill="#52514e">Macro Regimes (8-Regime Model)</text>
 <rect x="537.5" y="348.0" width="287.5" height="28" rx="14.0" fill="none" stroke="#eda100" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
 <text x="549.5" y="366.4" font-size="12.5" fill="#52514e">Max-Diversification + Graph Theory</text>
-<text x="24" y="417" font-size="14.5" font-weight="600" fill="#0b0b0b">Strategy Engines</text>
-<rect x="24.0" y="428.0" width="241.0" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="446.4" font-size="12.5" fill="#52514e">AlphaForge (GP Alpha Mining)</text>
-<rect x="273.0" y="428.0" width="225.5" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="285.0" y="446.4" font-size="12.5" fill="#52514e">QuantEngine (Live Trading)</text>
-<rect x="506.5" y="428.0" width="171.2" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="518.5" y="446.4" font-size="12.5" fill="#52514e">Hermes (Backtester)</text>
-<rect x="24.0" y="466.0" width="248.8" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="484.4" font-size="12.5" fill="#52514e">Options Volatility Strategies</text>
-<rect x="280.8" y="466.0" width="233.2" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="292.8" y="484.4" font-size="12.5" fill="#52514e">Prediction-Market Arbitrage</text>
-<rect x="522.0" y="466.0" width="194.5" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="534.0" y="484.4" font-size="12.5" fill="#52514e">Trading Data Pipelines</text>
-<text x="24" y="535" font-size="14.5" font-weight="600" fill="#0b0b0b">Risk &amp; PM Tooling</text>
-<rect x="24.0" y="546.0" width="295.2" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="564.4" font-size="12.5" fill="#52514e">Bayesian War Room (Scenario Engine)</text>
-<rect x="327.2" y="546.0" width="194.5" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="339.2" y="564.4" font-size="12.5" fill="#52514e">Macro Cockpit (PM App)</text>
-<rect x="529.8" y="546.0" width="217.8" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="541.8" y="564.4" font-size="12.5" fill="#52514e">Macro — PM's Second Brain</text>
-<rect x="24.0" y="584.0" width="233.2" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="602.4" font-size="12.5" fill="#52514e">IGambling (Games of Chance)</text>
-<text x="24" y="653" font-size="14.5" font-weight="600" fill="#0b0b0b">Creative &amp; AI Simulation</text>
-<rect x="24.0" y="664.0" width="217.8" height="28" rx="14.0" fill="#e34948" fill-opacity="0.16" stroke="#e34948" stroke-width="1.6"/>
-<circle cx="36.0" cy="678.0" r="3" fill="#e34948"/>
-<text x="46.0" y="682.4" font-size="12.5" fill="#0b0b0b">WAITING (Godot × Beckett)</text>
-<rect x="249.8" y="664.0" width="210.0" height="28" rx="14.0" fill="#e34948" fill-opacity="0.16" stroke="#e34948" stroke-width="1.6"/>
-<circle cx="261.8" cy="678.0" r="3" fill="#e34948"/>
-<text x="271.8" y="682.4" font-size="12.5" fill="#0b0b0b">Delphi (Multi-Agent Sim)</text>
-<rect x="467.8" y="664.0" width="171.2" height="28" rx="14.0" fill="#e34948" fill-opacity="0.16" stroke="#e34948" stroke-width="1.6"/>
-<circle cx="479.8" cy="678.0" r="3" fill="#e34948"/>
-<text x="489.8" y="682.4" font-size="12.5" fill="#0b0b0b">Demiurge (God-Game)</text>
-<text x="24" y="733" font-size="14.5" font-weight="600" fill="#0b0b0b">Personal &amp; AI Tooling</text>
-<rect x="24.0" y="744.0" width="225.5" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="762.4" font-size="12.5" fill="#52514e">Lodestar (Health Platform)</text>
-<rect x="257.5" y="744.0" width="210.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="269.5" y="762.4" font-size="12.5" fill="#52514e">Roana (Job-Search Agent)</text>
-<rect x="475.5" y="744.0" width="124.8" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="487.5" y="762.4" font-size="12.5" fill="#52514e">Claude Agents</text>
-<rect x="608.2" y="744.0" width="148.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="620.2" y="762.4" font-size="12.5" fill="#52514e">Claude Standards</text>
-<rect x="24.0" y="782.0" width="148.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="800.4" font-size="12.5" fill="#52514e">Innovation Radar</text>
-<rect x="180.0" y="782.0" width="186.8" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="192.0" y="800.4" font-size="12.5" fill="#52514e">Morning Market Digest</text>
-<rect x="374.8" y="782.0" width="241.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="386.8" y="800.4" font-size="12.5" fill="#52514e">Helm (Project Control Panel)</text>
-<text x="24" y="851" font-size="14.5" font-weight="600" fill="#0b0b0b">AI Infrastructure Stack</text>
-<rect x="24.0" y="862.0" width="248.8" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="880.4" font-size="12.5" fill="#52514e">Loomstate (Hybrid RAG Engine)</text>
-<rect x="280.8" y="862.0" width="225.5" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="292.8" y="880.4" font-size="12.5" fill="#52514e">Mnemosyne (GraphRAG Layer)</text>
-<rect x="514.2" y="862.0" width="256.5" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="526.2" y="880.4" font-size="12.5" fill="#52514e">Plumbline (Graph Quality Gate)</text>
-<rect x="24.0" y="900.0" width="217.8" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="36.0" y="918.4" font-size="12.5" fill="#52514e">Sluice (DAG Orchestrator)</text>
-<rect x="249.8" y="900.0" width="272.0" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="261.8" y="918.4" font-size="12.5" fill="#52514e">Tripwire (LLM Eval + Monitoring)</text>
-<rect x="529.8" y="900.0" width="264.2" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
-<text x="541.8" y="918.4" font-size="12.5" fill="#52514e">Passport (Agent Identity Rails)</text>
+<rect x="24.0" y="386.0" width="216.5" height="28" rx="14.0" fill="#eda100" fill-opacity="0.16" stroke="#eda100" stroke-width="1.6"/>
+<circle cx="36.0" cy="400.0" r="3" fill="#eda100"/>
+<text x="46.0" y="404.4" font-size="12.5" fill="#0b0b0b">Zugzwicht — Chess Regimes</text>
+<text x="24" y="455.0" font-size="14.5" font-weight="600" fill="#0b0b0b">Strategy Engines</text>
+<rect x="24.0" y="466.0" width="241.0" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="484.4" font-size="12.5" fill="#52514e">AlphaForge (GP Alpha Mining)</text>
+<rect x="273.0" y="466.0" width="225.5" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="285.0" y="484.4" font-size="12.5" fill="#52514e">QuantEngine (Live Trading)</text>
+<rect x="506.5" y="466.0" width="171.2" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="518.5" y="484.4" font-size="12.5" fill="#52514e">Hermes (Backtester)</text>
+<rect x="24.0" y="504.0" width="248.8" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="522.4" font-size="12.5" fill="#52514e">Options Volatility Strategies</text>
+<rect x="280.8" y="504.0" width="233.2" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="292.8" y="522.4" font-size="12.5" fill="#52514e">Prediction-Market Arbitrage</text>
+<rect x="522.0" y="504.0" width="194.5" height="28" rx="14.0" fill="none" stroke="#008300" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="534.0" y="522.4" font-size="12.5" fill="#52514e">Trading Data Pipelines</text>
+<text x="24" y="573.0" font-size="14.5" font-weight="600" fill="#0b0b0b">Risk &amp; PM Tooling</text>
+<rect x="24.0" y="584.0" width="295.2" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="602.4" font-size="12.5" fill="#52514e">Bayesian War Room (Scenario Engine)</text>
+<rect x="327.2" y="584.0" width="194.5" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="339.2" y="602.4" font-size="12.5" fill="#52514e">Macro Cockpit (PM App)</text>
+<rect x="529.8" y="584.0" width="217.8" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="541.8" y="602.4" font-size="12.5" fill="#52514e">Macro — PM's Second Brain</text>
+<rect x="24.0" y="622.0" width="233.2" height="28" rx="14.0" fill="none" stroke="#4a3aa7" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="640.4" font-size="12.5" fill="#52514e">IGambling (Games of Chance)</text>
+<text x="24" y="691.0" font-size="14.5" font-weight="600" fill="#0b0b0b">Creative &amp; AI Simulation</text>
+<rect x="24.0" y="702.0" width="217.8" height="28" rx="14.0" fill="#e34948" fill-opacity="0.16" stroke="#e34948" stroke-width="1.6"/>
+<circle cx="36.0" cy="716.0" r="3" fill="#e34948"/>
+<text x="46.0" y="720.4" font-size="12.5" fill="#0b0b0b">WAITING (Godot × Beckett)</text>
+<rect x="249.8" y="702.0" width="210.0" height="28" rx="14.0" fill="#e34948" fill-opacity="0.16" stroke="#e34948" stroke-width="1.6"/>
+<circle cx="261.8" cy="716.0" r="3" fill="#e34948"/>
+<text x="271.8" y="720.4" font-size="12.5" fill="#0b0b0b">Delphi (Multi-Agent Sim)</text>
+<rect x="467.8" y="702.0" width="171.2" height="28" rx="14.0" fill="#e34948" fill-opacity="0.16" stroke="#e34948" stroke-width="1.6"/>
+<circle cx="479.8" cy="716.0" r="3" fill="#e34948"/>
+<text x="489.8" y="720.4" font-size="12.5" fill="#0b0b0b">Demiurge (God-Game)</text>
+<text x="24" y="771.0" font-size="14.5" font-weight="600" fill="#0b0b0b">Personal &amp; AI Tooling</text>
+<rect x="24.0" y="782.0" width="225.5" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="800.4" font-size="12.5" fill="#52514e">Lodestar (Health Platform)</text>
+<rect x="257.5" y="782.0" width="210.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="269.5" y="800.4" font-size="12.5" fill="#52514e">Roana (Job-Search Agent)</text>
+<rect x="475.5" y="782.0" width="124.8" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="487.5" y="800.4" font-size="12.5" fill="#52514e">Claude Agents</text>
+<rect x="608.2" y="782.0" width="148.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="620.2" y="800.4" font-size="12.5" fill="#52514e">Claude Standards</text>
+<rect x="24.0" y="820.0" width="148.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="838.4" font-size="12.5" fill="#52514e">Innovation Radar</text>
+<rect x="180.0" y="820.0" width="186.8" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="192.0" y="838.4" font-size="12.5" fill="#52514e">Morning Market Digest</text>
+<rect x="374.8" y="820.0" width="241.0" height="28" rx="14.0" fill="none" stroke="#e87ba4" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="386.8" y="838.4" font-size="12.5" fill="#52514e">Helm (Project Control Panel)</text>
+<text x="24" y="889.0" font-size="14.5" font-weight="600" fill="#0b0b0b">AI Infrastructure Stack</text>
+<rect x="24.0" y="900.0" width="248.8" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="918.4" font-size="12.5" fill="#52514e">Loomstate (Hybrid RAG Engine)</text>
+<rect x="280.8" y="900.0" width="225.5" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="292.8" y="918.4" font-size="12.5" fill="#52514e">Mnemosyne (GraphRAG Layer)</text>
+<rect x="514.2" y="900.0" width="256.5" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="526.2" y="918.4" font-size="12.5" fill="#52514e">Plumbline (Graph Quality Gate)</text>
+<rect x="24.0" y="938.0" width="217.8" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="36.0" y="956.4" font-size="12.5" fill="#52514e">Sluice (DAG Orchestrator)</text>
+<rect x="249.8" y="938.0" width="272.0" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="261.8" y="956.4" font-size="12.5" fill="#52514e">Tripwire (LLM Eval + Monitoring)</text>
+<rect x="529.8" y="938.0" width="264.2" height="28" rx="14.0" fill="none" stroke="#eb6834" stroke-width="1.1" stroke-opacity="0.55" stroke-dasharray="2,2"/>
+<text x="541.8" y="956.4" font-size="12.5" fill="#52514e">Passport (Agent Identity Rails)</text>
 </svg>
